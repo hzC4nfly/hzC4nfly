@@ -66,7 +66,7 @@
 ---
 
 ## 🧠 Quote I Like
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "Build fast, break things, learn faster" 
 
 ---
 

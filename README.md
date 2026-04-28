@@ -42,11 +42,16 @@
   <img src="https://streak-stats.demolab.com?user=hzC4nfly&theme=dark" />
 </p>
 
-<!--
+
 ---
 
 ## 🚀 Projects
-- 🔗 [Project 1](#) — Short description  
+
+### 2️⃣ Task Management Web Application
+- Tech: HTML, CSS, JavaScript, React, Laravel, MySQL  
+- Description: Fullstack task management system with user authentication, task creation, and tracking features.  
+- Link: [GitHub Repo](https://github.com/hzC4nfly/hotel-showcase.git) 
+ <!--
 - 🔗 [Project 2](#) — Short description  
 - 🔗 [Project 3](#) — Short description  
 

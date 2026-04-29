@@ -47,9 +47,14 @@
 
 ## 🚀 Projects
 
-### 2️⃣ Task Management Web Application
+1️⃣ Task Management Web Application
 - Tech: HTML, CSS, JavaScript, React, Laravel, MySQL  
 - Description: Fullstack task management system with user authentication, task creation, and tracking features.  
+- Link: [GitHub Repo](https://github.com/hzC4nfly/Task_Management.git)
+
+2️⃣ Hotel Showcase Website
+- Tech: HTML, CSS, JavaScript, PHP  
+- Description: A responsive hotel website to showcase rooms, facilities.  
 - Link: [GitHub Repo](https://github.com/hzC4nfly/hotel-showcase.git) 
  <!--
 - 🔗 [Project 2](#) — Short description  
